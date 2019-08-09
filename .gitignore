@@ -6,5 +6,6 @@ tmp/*
 
 dist
 coverage
+*.sqlite
 
 .vscode
